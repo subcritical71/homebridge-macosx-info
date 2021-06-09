@@ -1,27 +1,29 @@
 {
-  "name": "homebridge-macosx-info",
-  "version": "1.0.3",
-  "description": "A homebridge plugin that get macOSX information",
-  "homepage": "https://di-marco.net/projects/homebridge-macosx-info/",
-  "main": "index.js",
-  "author": "AdM <adm@di-marco.net>",
+  "name": "homebridge-mac-info",
+  "description": "Homebridge plugin for Mac computer status information",
+  "displayName": "Homebridge Mac",
+  "author": "John Jaromin",
+  "license": "Apache-2.0",
+  "version": "0.0.1",
   "keywords": [
     "homebridge-plugin",
     "homebridge",
     "Homekit",
     "macOS",
-    "EVE.",
-    "Apple Inc.",
+    "EVE",
+    "Apple",
     "siri",
     "home"
   ],
- "license": "MIT",
+  "main": "index.js",
+  
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ad5030/homebridge-macosx-info.git"
+    "url": "https://github.com/subcritical71/homebridge-mac-info.git"
   },
   "bugs": {
-    "url": "https://github.com/ad5030/homebridge-macosx-info/issues"
+    "url": "https://github.com/subcritical71/homebridge-mac-info/issues"
   },
   "engines": {
     "node": ">=11.10.1",
